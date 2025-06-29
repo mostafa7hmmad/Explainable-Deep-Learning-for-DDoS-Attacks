@@ -1,4 +1,4 @@
-# Explainable-Deep-Learning-for-DDoS-Attacks-Paper-
+# Explainable-Deep-Learning-for-DDoS-Attacks
 ![img](ddos.jpg)
 ```
 
